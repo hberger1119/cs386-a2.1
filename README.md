@@ -2,6 +2,7 @@
 MyCarDriver drives the car for you.
 ## Installation
 Use the package manager [pip](https://pypi.org/project/pip/) to install MrCarDriver
+
 ![image][image_ref_py]
 
 ## Developers
@@ -10,4 +11,4 @@ Use the package manager [pip](https://pypi.org/project/pip/) to install MrCarDri
 - *Haley Berger*
 
 
-[image_ref_py]:https://pypi.org/static/images/logo-small.95de8436.svg 
+[image_ref_py]:"https://pypi.org/static/images/logo-small.95de8436.svg"
